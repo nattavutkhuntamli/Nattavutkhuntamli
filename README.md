@@ -46,6 +46,4 @@ I've been learning React.js Vue.js for Nodejs express 2 weeks
 
 <a href="https://github.com/nattavutkhuntamli" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattavutkhuntamli&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src="https://cdn-icons-png.flaticon.com/512/473/473406.png" alt="Photoshop" />
-<img src="https://cdn-icons-png.flaticon.com/512/473/473406.png" alt="Photoshop" />
-<img src="https://cdn-icons-png.flaticon.com/512/473/473406.png" alt="Photoshop" />
+
