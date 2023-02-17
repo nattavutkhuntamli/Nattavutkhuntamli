@@ -1,10 +1,8 @@
 
-I've been learning React.js Vue.js for Nodejs express 2 weeks
 
 * ✉️  You can contact me at [nattavutkhuntamli@gmail.com](mailto:nattavutkhuntamli@gmail.com)
-* 🧠  I'm learning backed developer react.js vue.js and nodejs express
+* 🧠  I'm learning react.js vue.js and nodejs express
 * 🤝  I'm open to collaborating on github
-* ⚡  MOVIE , MUSIC
 
 ### Skills
 
