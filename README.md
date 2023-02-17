@@ -1,8 +1,3 @@
-Nattavut khuntamli
-==========================================================================================================================================
-
-Software Developer
--------------------------
 
 I've been learning React.js Vue.js for Nodejs express 2 weeks
 
