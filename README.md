@@ -3,6 +3,7 @@
 * ✉️  You can contact me at [nattavutkhuntamli@gmail.com](mailto:nattavutkhuntamli@gmail.com)
 * 🧠  I'm learning react.js vue.js and nodejs express
 * 🤝  I'm open to collaborating on github
+* 🤝  hobbies  music game  movie  Coding
 
 ### Skills
 
